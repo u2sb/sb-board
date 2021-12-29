@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "sb-board")(type "KiCad")(uri "D:/MonoLogueChi/Documents/GitHub/sb-board/Hardware/lib/sb-board.pretty")(options "")(descr ""))
+)
